@@ -34,9 +34,3 @@
 ```
 
 ---
-
-<div align="center">
-
-*Last updated: 2026-11-11* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
-
-</div>
