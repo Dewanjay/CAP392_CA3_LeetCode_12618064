@@ -12,6 +12,8 @@ You can return the answer in any order.
 
  
 
+Original
+Java
  **Example 1:** 
 
  **Input:**  `nums = [2,7,11,15], target = 9`
@@ -58,9 +60,9 @@ The sum of `nums[0]` and `nums[1]` is `3 + 3 = 6`, which equals the target. Ther
 ## Solution
 
 **Language:** Java  
-**Runtime:** 39 ms (beats 35.95%)  
-**Memory:** 46.5 MB (beats 91.87%)  
-**Submitted:** 2026-11-03T05:48:56.877Z  
+**Runtime:** 39 ms (beats 36.26%)  
+**Memory:** 46.5 MB (beats 83.13%)  
+**Submitted:** 2026-11-11T10:10:19.244Z  
 
 ```java
 class Solution {
