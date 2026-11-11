@@ -44,9 +44,9 @@ numArray.sumRange(0, 5); // return (-2) + 0 + 3 + (-5) + 2 + (-1) = -3
 ## Solution
 
 **Language:** Java  
-**Runtime:** 8 ms (beats 73.15%)  
-**Memory:** 47.2 MB (beats 90.99%)  
-**Submitted:** 2026-11-03T06:00:58.100Z  
+**Runtime:** 7 ms (beats 99.97%)  
+**Memory:** 47.1 MB (beats 87.41%)  
+**Submitted:** 2026-11-11T10:12:20.799Z  
 
 ```java
 class NumArray {
